@@ -1,0 +1,22 @@
+Name: Allan Joshua Luke,Allan, Luke
+Type: Person
+Age: 19
+
+End
+
+Name: Banana,Bananas
+Type: Food
+Price: 0.6/pound
+Barcode: 11S30SFF03
+Serving Size: 100g
+Calories: 89
+Total Fat: 0.3g
+Saturated Fat: 0.1g
+Cholesterol: 0mg
+Sodium: 1mg
+Total Carbohydrates: 23g
+Sugar: 12g
+Protein: 1.1g
+
+End
+ 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Allan Luke/workspace/DynamicNotepadMVC/Dependencies/jackson-annotations-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Allan Luke/workspace/DynamicNotepadMVC/Dependencies/jackson-core-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Allan Luke/workspace/DynamicNotepadMVC/Dependencies/jackson-databind-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Allan Luke/workspace/DynamicNotepadMVC/Dependencies/jersey-client-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Allan Luke/workspace/DynamicNotepadMVC/Dependencies/jersey-core-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Allan Luke/workspace/DynamicNotepadMVC/Dependencies/jsoup-1.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Allan Luke/workspace/DynamicNotepadMVC/Dependencies/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Allan Luke/workspace/DynamicNotepadMVC/Dependencies/scala-library-2.9.1-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Allan Luke/workspace/DynamicNotepadMVC/Dependencies/scalatest_2.9.1-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Allan Luke/workspace/DynamicNotepadMVC/Dependencies/wordnik-java-client-1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
