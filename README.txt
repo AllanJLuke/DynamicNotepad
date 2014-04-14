@@ -1,6 +1,6 @@
 Author: Allan Joshua Luke
 Github: https://github.com/AllanJLuke
-Repo: https://github.com/AllanJLuke/LookUp
+Repo: https://github.com/AllanJLuke/DynamicNotepad
 
 
 What is it?
